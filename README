@@ -1,0 +1,18 @@
+Taş-Kağıt-Makas Oyunu
+Bu, JavaScript kullanılarak geliştirilmiş basit bir taş-kağıt-makas oyunudur. Oyuncular bilgisayara karşı oynar ve rastgele seçilen bir hamle yaparlar.
+
+***Nasıl Çalışır***
+Oyun, HTML, CSS ve JavaScript'i birleştiren bir web uygulaması olarak tasarlanmıştır. Oyunu çalıştırmak için aşağıdaki adımları izleyin:
+
+* Bu proje klasörünü yerel bir dizine indirin veya bir sunucuya yükleyin.
+* İndirilen klasörün kök dizinine gidin ve index.html dosyasını çift tıklayarak açın.
+* Web tarayıcınızda oyunun çalıştığını göreceksiniz.
+- Oynanış *
+* Oyun başladığında, kullanıcıdan bir seçim yapması istenir (Taş, Kağıt veya Makas).
+* Kullanıcı seçimini yaptıktan sonra, bilgisayar rastgele bir hamle yapar.
+* Oyuncu ve bilgisayarın hamleleri karşılaştırılır ve sonuç ekranda gösterilir (Oyuncu kazanır, bilgisayar kazanır veya berabere kalır).
+* Kullanıcı, "Yeniden Oyna" düğmesine tıklayarak yeni bir oyun başlatabilir.
+Proje Dosyaları
+* index.html: Oyunun ana HTML dosyası. Kullanıcı arayüzünü ve gerekli bağımlılıkları içerir.
+* style.css: Oyunun görünümü için CSS dosyası. Kullanıcı arayüzünün stilini belirler.
+* script.js: Oyunun mantığını ve etkinlikleri işleyen JavaScript dosyası.
